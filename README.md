@@ -44,7 +44,7 @@ as I continue learning at Punjab Hunarmand Program, Batch 3.
 
 ---
 
-Program : Punjab Hunarmand — Batch 3
-Lecture : 2
-Topic   : Variables in Python
+Program : Punjab Hunarmand — Batch 3  
+Lecture : 2  
+Topic   : Variables in Python  
 Status  : In Progress
